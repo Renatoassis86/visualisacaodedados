@@ -1,0 +1,73 @@
+trimestre;local;faixa_etaria;ocupados_k;informais_k;formais_k;taxa_informalidade
+1º tri/2023;Brasil;14 a 24 anos;13839,5;6358,7;7480,8;45,9
+1º tri/2023;Brasil;25 a 39 anos;36775,7;12572,2;24203,5;34,2
+1º tri/2023;Brasil;40 a 59 anos;38055,2;14486,4;23568,8;38,1
+1º tri/2023;Brasil;60 anos ou mais;7307,7;4039,9;3267,8;55,3
+1º tri/2023;Rio Grande do Norte;14 a 24 anos;153,2;86,8;66,4;56,6
+1º tri/2023;Rio Grande do Norte;25 a 39 anos;502,8;213,0;289,8;42,4
+1º tri/2023;Rio Grande do Norte;40 a 59 anos;496,5;222,6;273,8;44,8
+1º tri/2023;Rio Grande do Norte;60 anos ou mais;86,0;48,1;37,9;55,9
+2º tri/2023;Brasil;14 a 24 anos;14073,9;6402,7;7671,1;45,5
+2º tri/2023;Brasil;25 a 39 anos;37013,9;12897,7;24116,3;34,8
+2º tri/2023;Brasil;40 a 59 anos;38502,3;14694,5;23807,8;38,2
+2º tri/2023;Brasil;60 anos ou mais;7447,7;4055,9;3391,8;54,5
+2º tri/2023;Rio Grande do Norte;14 a 24 anos;151,1;82,7;68,3;54,8
+2º tri/2023;Rio Grande do Norte;25 a 39 anos;520,4;216,4;304,0;41,6
+2º tri/2023;Rio Grande do Norte;40 a 59 anos;509,2;214,8;294,4;42,2
+2º tri/2023;Rio Grande do Norte;60 anos ou mais;84,6;46,7;38,0;55,2
+3º tri/2023;Brasil;14 a 24 anos;14076,7;6327,7;7749,0;45,0
+3º tri/2023;Brasil;25 a 39 anos;37165,4;12901,0;24264,4;34,7
+3º tri/2023;Brasil;40 a 59 anos;39049,5;14905,6;24144,0;38,2
+3º tri/2023;Brasil;60 anos ou mais;7646,2;4205,0;3441,3;55,0
+3º tri/2023;Rio Grande do Norte;14 a 24 anos;157,1;75,1;82,0;47,8
+3º tri/2023;Rio Grande do Norte;25 a 39 anos;536,3;234,1;302,3;43,6
+3º tri/2023;Rio Grande do Norte;40 a 59 anos;506,2;217,5;288,8;43,0
+3º tri/2023;Rio Grande do Norte;60 anos ou mais;83,2;43,6;39,6;52,4
+4º tri/2023;Brasil;14 a 24 anos;14255,5;6439,5;7816,0;45,2
+4º tri/2023;Brasil;25 a 39 anos;37486,5;13039,2;24447,2;34,8
+4º tri/2023;Brasil;40 a 59 anos;39529,9;15053,2;24476,7;38,1
+4º tri/2023;Brasil;60 anos ou mais;7790,1;4294,1;3496,0;55,1
+4º tri/2023;Rio Grande do Norte;14 a 24 anos;161,6;83,6;78,0;51,8
+4º tri/2023;Rio Grande do Norte;25 a 39 anos;555,0;222,3;332,7;40,1
+4º tri/2023;Rio Grande do Norte;40 a 59 anos;515,9;206,0;309,9;39,9
+4º tri/2023;Rio Grande do Norte;60 anos ou mais;82,3;44,9;37,4;54,6
+1º tri/2024;Brasil;14 a 24 anos;13979,7;6269,7;7710,0;44,8
+1º tri/2024;Brasil;25 a 39 anos;37014,3;12838,0;24176,3;34,7
+1º tri/2024;Brasil;40 a 59 anos;39539,4;14934,6;24604,8;37,8
+1º tri/2024;Brasil;60 anos ou mais;7757,1;4199,5;3557,6;54,1
+1º tri/2024;Rio Grande do Norte;14 a 24 anos;143,2;77,6;65,6;54,2
+1º tri/2024;Rio Grande do Norte;25 a 39 anos;544,4;210,7;333,7;38,7
+1º tri/2024;Rio Grande do Norte;40 a 59 anos;543,8;222,5;321,3;40,9
+1º tri/2024;Rio Grande do Norte;60 anos ou mais;81,8;46,3;35,5;56,6
+2º tri/2024;Brasil;14 a 24 anos;14357,6;6398,7;7958,9;44,6
+2º tri/2024;Brasil;25 a 39 anos;37562,8;12956,4;24606,4;34,5
+2º tri/2024;Brasil;40 a 59 anos;40003,2;14999,2;25004,0;37,5
+2º tri/2024;Brasil;60 anos ou mais;7959,9;4265,0;3694,9;53,6
+2º tri/2024;Rio Grande do Norte;14 a 24 anos;176,6;93,6;83,1;53,0
+2º tri/2024;Rio Grande do Norte;25 a 39 anos;558,3;215,4;342,9;38,6
+2º tri/2024;Rio Grande do Norte;40 a 59 anos;548,2;218,6;329,6;39,9
+2º tri/2024;Rio Grande do Norte;60 anos ou mais;86,3;42,1;44,2;48,8
+3º tri/2024;Brasil;14 a 24 anos;14486,2;6493,3;7993,0;44,8
+3º tri/2024;Brasil;25 a 39 anos;37589,9;12921,1;24668,9;34,4
+3º tri/2024;Brasil;40 a 59 anos;40713,0;15351,1;25361,9;37,7
+3º tri/2024;Brasil;60 anos ou mais;8269,2;4474,8;3794,4;54,1
+3º tri/2024;Rio Grande do Norte;14 a 24 anos;190,7;97,4;93,3;51,1
+3º tri/2024;Rio Grande do Norte;25 a 39 anos;553,0;206,4;346,6;37,3
+3º tri/2024;Rio Grande do Norte;40 a 59 anos;550,3;229,9;320,4;41,8
+3º tri/2024;Rio Grande do Norte;60 anos ou mais;89,6;46,5;43,1;51,9
+4º tri/2024;Brasil;14 a 24 anos;14483,7;6366,2;8117,5;44,0
+4º tri/2024;Brasil;25 a 39 anos;37808,1;13188,4;24619,7;34,9
+4º tri/2024;Brasil;40 a 59 anos;41027,1;15166,6;25860,4;37,0
+4º tri/2024;Brasil;60 anos ou mais;8513,1;4586,0;3927,1;53,9
+4º tri/2024;Rio Grande do Norte;14 a 24 anos;188,4;93,9;94,5;49,8
+4º tri/2024;Rio Grande do Norte;25 a 39 anos;523,2;201,0;322,1;38,4
+4º tri/2024;Rio Grande do Norte;40 a 59 anos;569,7;237,4;332,3;41,7
+4º tri/2024;Rio Grande do Norte;60 anos ou mais;107,6;58,2;49,4;54,1
+1º tri/2025;Brasil;14 a 24 anos;14063,0;6108,2;7954,8;43,4
+1º tri/2025;Brasil;25 a 39 anos;37275,6;12731,7;24543,9;34,2
+1º tri/2025;Brasil;40 a 59 anos;40717,6;14806,1;25911,5;36,4
+1º tri/2025;Brasil;60 anos ou mais;8454,6;4543,5;3911,1;53,7
+1º tri/2025;Rio Grande do Norte;14 a 24 anos;181,1;96,7;84,4;53,4
+1º tri/2025;Rio Grande do Norte;25 a 39 anos;515,4;188,1;327,3;36,5
+1º tri/2025;Rio Grande do Norte;40 a 59 anos;576,2;235,6;340,6;40,9
+1º tri/2025;Rio Grande do Norte;60 anos ou mais;99,4;53,1;46,3;53,4

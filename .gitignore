@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+# Ignorar brutos e arquivos pesados
+Dados/
+*.txt
+*.zip
+*.7z
+*.rar
+~$*.xlsx
+
+# Manter os CSVs agregados dentro de data/
+!data/*.csv
+"@ | Set-Content -Encoding UTF8 .gitignore
