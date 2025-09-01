@@ -1,17 +1,30 @@
-.Rproj.user
+@'
+# R
+.Rproj.user/
 .Rhistory
 .RData
+.RDataTmp
 .Ruserdata
 
+# Python
+.venv/
+__pycache__/
+*.pyc
 
-# Ignorar brutos e arquivos pesados
+# Arquivos grandes/temporários
 Dados/
-*.txt
 *.zip
 *.7z
 *.rar
+*.tar
+*.gz
+*.bz2
 ~$*.xlsx
 
-# Manter os CSVs agregados dentro de data/
+# Manter apenas CSVs pequenos em data/ (se houver)
 !data/*.csv
-"@ | Set-Content -Encoding UTF8 .gitignore
+'@ | Set-Content -Encoding UTF8 .gitignore
+
+git add .gitignore
+git commit -m "Fix: .gitignore correto (R, Python, grandes) — evita .RDataTmp"
+git push
