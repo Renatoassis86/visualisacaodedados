@@ -1,1 +1,1 @@
-echo 3.11.9 > runtime.txt
+﻿3.11.9
